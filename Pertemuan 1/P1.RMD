@@ -1,1 +1,13 @@
+---
+title: "Pertemuan 1 MPDW"
+author: "Nazuwa Aulia"
+date: "2023-08-29"
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
+---
 
+```{r}
+
+```
